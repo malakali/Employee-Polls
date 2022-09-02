@@ -1,0 +1,23 @@
+.question {
+    width: 300px;
+    height: 165px;
+    border: solid 1px rgb(241, 199, 11);
+    text-align: center;
+    margin-bottom: 2em;
+  }
+  .colortext {
+  
+    color:rgb(197, 84, 84) ;
+ 
+ }
+  #btn-show {
+    height: 40px;
+    width: 100px;
+    color: white;
+    font-size: 16px;
+    background:rgb(241, 199, 11);
+    opacity: 0.5;
+    border-radius: 8px;
+    border: solid 1px white;
+  }
+  

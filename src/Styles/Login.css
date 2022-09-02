@@ -1,0 +1,67 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+  input {
+    width: 343px;
+    height: 35px;
+  }
+  
+  #btnlogin {
+    margin-top: 3em;
+    height: 40px;
+    width: 100px;
+    color: white;
+    font-size: 16px;
+    background: rgb(57, 57, 102);
+    opacity: 0.5;
+    border-radius: 8px;
+    border: solid 1px white;
+  }
+
+  figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  img {
+    width: 40%;
+  }
+  
+  .error-message {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(223, 80, 80);
+     
+  }
+  
+  .button-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5em;
+    
+  }
+
+  .colortext {
+  
+    color:rgb(197, 84, 84) ;
+ 
+  
+
+    
+  
+    
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+  
+    
+  }
+  

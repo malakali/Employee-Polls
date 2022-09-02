@@ -1,0 +1,11 @@
+.table {
+    text-align: center;
+    width: 600px;
+    margin: 2em;
+    
+  }
+  
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
